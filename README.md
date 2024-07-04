@@ -7,7 +7,7 @@ Web Developer
 I've been learning to code for about 2 years now, I started with C, C++, and Java, and later picked up HTML, CSS, and Javascript. As I progressed, my interest in web development grew. It has been an exciting journey, filled with challenges that have helped me develop my skills and knowledge in this field.
 
 * ✉️  You can contact me at [picheyprak@gmail.com](mailto:picheyprak@gmail.com)
-* 🧠  I'm learning to improve my skills with Laravel, React.
+* 🧠  I'm learning to improve my Frontend and Backend skills.
 
 ### Skills
 
