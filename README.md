@@ -1,13 +1,13 @@
 Hi 👋 My name is Pichey
 =======================
 
-Web Developer
+Coder
 -------------
 
-I've been learning to code for about 4 years now, I started with C, C++, and Java, and later picked up HTML, CSS, and Javascript. As I progressed, my interest in web development grew. It has been an exciting journey, filled with challenges that have helped me develop my skills and knowledge in this field.
+I've been learning to code since 2021, I started with C, C++, and Java, and later picked up HTML, CSS, and Javascript. As I progressed, my interest in coding grew. It has been an exciting journey, filled with challenges that have helped me develop my skills and knowledge in this field.
 
 * ✉️  You can contact me at [picheyprak@gmail.com](mailto:picheyprak@gmail.com)
-* 🧠  I'm learning to improve my Frontend and Backend skills.
+* 🧠  I'm always strive to improve my coding skills.
 
 ### Skills
 
@@ -18,4 +18,6 @@ I've been learning to code for about 4 years now, I started with C, C++, and Jav
 
 ### My GitHub Stats
 
-<a href="https://github.com/Kaimc2" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaimc2&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Kaimc2" align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaimc2&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+</a>
