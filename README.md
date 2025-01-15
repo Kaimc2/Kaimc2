@@ -1,7 +1,7 @@
 Hi 👋 My name is Pichey
 =======================
 
-Coder
+Programmer
 -------------
 
 I've been learning to code since 2021, I started with C, C++, and Java, and later picked up HTML, CSS, and Javascript. As I progressed, my interest in coding grew. It has been an exciting journey, filled with challenges that have helped me develop my skills and knowledge in this field.
